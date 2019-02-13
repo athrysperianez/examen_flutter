@@ -1,0 +1,4 @@
+#Wed Feb 13 11:33:46 CET 2019
+base.0=C\:\\Users\\Elias\\AndroidStudioProjects\\Scalextric_app\\examen_flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
